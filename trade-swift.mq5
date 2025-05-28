@@ -1,11 +1,11 @@
-//+------------------------------------------------------------------+
-//|                                              trade swift.mq5 |
-//|                        Copyright 2025, chiTheDev. |
+//+-------------------------------------------------------------------------+
+//|                                                         trade swift.mq5 |
+//|                                              Copyright 2025, chiTheDev. |
 //|                                             https://www.x.com/chithedev |
-//+------------------------------------------------------------------+
+//+-------------------------------------------------------------------------+
 #include <Trade\Trade.mqh>
 
-#property copyright "Copyright 2023, MetaQuotes Software Corp."
+#property copyright "Copyright 2025, ."
 #property link      "https://www.mql5.com"
 #property version   "1.00"
 #property description "Fair Value Gap Detector Expert Advisor"
